@@ -1,1 +1,3 @@
-First project in the Complete React Developer course
+Demo here: https://pritam-das.github.io/monsters-rolodex/
+
+
